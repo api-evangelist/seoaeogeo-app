@@ -1,4 +1,4 @@
-# seoaeogeo-app
+# SEO·AEO·GEO
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,99 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-seoaeogeo-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://seoaeogeo.app/
+SEO·AEO·GEO provides AI-driven SEO, AEO, and GEO auditing tools for agencies and businesses. Their platform offers automated visibility checks, technical readiness inspections, and AI citation analysis to help improve search engine performance and compliance. Services include AI visibility audits, schema validation, and custom reporting, targeting agencies, marketers, and developers seeking to optimize their online presence.
+
+**Areas:** SEO · AI · Auditing · Marketing · Agency
+
+## SEO·AEO·GEO on APIs.io
+
+Everything profiled for SEO·AEO·GEO is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/seoaeogeo-app/](https://apis.io/providers/seoaeogeo-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [SEO·AEO·GEO API](https://apis.io/apis/seoaeogeo-app/seoaeogeo-api/) — API for SEO·AEO·GEO platform providing AI-driven SEO, AEO, and GEO auditing tools. Documentation is available at the pricing page, but no machine‑readable…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SEO·AEO·GEO Domain Security](https://apis.io/security/seoaeogeo-app/seoaeogeo-app-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [SEO·AEO·GEO Plans Pricing](https://apis.io/plans/seoaeogeo-app/seoaeogeo-app-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://seoaeogeo.app/)
+- [Documentation](https://seoaeogeo.app/about)
+- [Pricing](https://seoaeogeo.app/pricing)
+- [Sign up](https://seoaeogeo.app/ai-visibility/register.it)
+- [Blog](https://seoaeogeo.app/blogs)
+- [Terms of service](https://seoaeogeo.app/terms)
+- [Privacy policy](https://seoaeogeo.app/privacy)
+- [Status](https://seoaeogeo.app/ai-visibility/statuspage.io)
+
+## API Evangelist rating
+
+**Kin Score 20.6** — emerging · rubric 0.28.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 14.3 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 59.1 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/seoaeogeo-app/](https://apis.io/providers/seoaeogeo-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SEO·AEO·GEO: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/seoaeogeo-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
